@@ -1,1 +1,5 @@
-ON teste le pull
+#/bin/bash
+# ON teste les commandes git de base
+####################################
+
+echo "script incroyable"
